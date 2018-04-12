@@ -12,6 +12,7 @@ https://github.com/milianB/SoundFilm
 
 ## Contacto
 
+breen.milian@gmail.com
 
 ### Jekyll Themes
 
