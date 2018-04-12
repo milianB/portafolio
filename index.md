@@ -1,3 +1,4 @@
+
 ## Sobre mí 
 
 Oaxaqueña de 25 años, psicóloga por la FES Iztacala enfocada al desarrollo e innovación de la tecnología digital. Tengo una especialidad en UX Designer por Laboratoria Mx que me ha permitido explotar mi papel como Ux Research y Product Owner. También poeta y cuentista. 
@@ -11,8 +12,9 @@ https://github.com/milianB/viajandoando-1
 
 ![screencapture-viajandoando-techroom-mx-2018-04-03-00_35_36](https://user-images.githubusercontent.com/31233225/38231287-8b1cb56e-36d7-11e8-9aea-a59bfbedc50f.png)
 
-
 https://github.com/milianB/save_the_children
+
+![fireshot capture 12 - save2save - https___andreagurod wixsite com_save2save](https://user-images.githubusercontent.com/32876098/38707726-2b3f9898-3e78-11e8-81ee-011252e3896f.png)
 
 https://github.com/milianB/SoundFilm
 
