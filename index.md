@@ -1,5 +1,7 @@
 ## Sobre mí 
 
+Oaxaqueña de 25 años, psicóloga por la FES Iztacala enfocada al desarrollo e innovación de la tecnología digital. Tengo una especialidad en UX Designer por Laboratoria Mx que me ha permitido explotar mi papel como Ux Research y Product Owner. También poeta y cuentista. 
+
 ## Portafolio
 
 ## Contacto
