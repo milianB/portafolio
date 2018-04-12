@@ -4,7 +4,13 @@ Oaxaqueña de 25 años, psicóloga por la FES Iztacala enfocada al desarrollo e 
 
 ## Portafolio
 
+¡Ahora podrás ahorrar mientras viajas!
+Con Viajandoando disfruta de tus viajes acumulando puntos para darte beneficios como viajero frecuente
+
 https://github.com/milianB/viajandoando-1
+
+![screencapture-viajandoando-techroom-mx-2018-04-03-00_35_36](https://user-images.githubusercontent.com/31233225/38231287-8b1cb56e-36d7-11e8-9aea-a59bfbedc50f.png)
+
 
 https://github.com/milianB/save_the_children
 
